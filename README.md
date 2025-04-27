@@ -1,4 +1,4 @@
-# Virtual Zoo-A VR Experience
+# Virtual Zoo - A VR Experience
 The Virtual Zoo is a groundbreaking Virtual Reality (VR)
 experience developed as a core project under the CS344 -
 Introduction to Metaverse course. This innovative endeavor
